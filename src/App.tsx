@@ -65,7 +65,7 @@ const App: Component = () => {
       }}>
       <header>
         <div flex justify-between items-center>
-          <AresChang />
+          
           <div text-2xl flex items-center gap-2>
             <i
               i-carbon-music
@@ -152,9 +152,6 @@ const App: Component = () => {
             gap-1>
             <i i-carbon-logo-github inline-block></i>
             <span>GitHub</span>
-          </a>
-          <a href='https://www.github.com/ares-chang' color='hover:#eee'>
-            @AresChang
           </a>
         </div>
       </footer>
