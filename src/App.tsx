@@ -131,7 +131,7 @@ const App: Component = () => {
           <div>
             点击
             <code class={styles.code}>
-              右上角
+              
               <i
                 i-carbon-music
                 inline-block
